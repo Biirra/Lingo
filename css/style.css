@@ -1,0 +1,8 @@
+tr, td{
+
+    min-width: 25px;
+
+}
+#game td{
+    border: 1px solid black;
+}
